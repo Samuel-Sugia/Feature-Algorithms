@@ -1,7 +1,3 @@
-'''
- Based on the following tutorial:
-   http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html
-'''
 
 import numpy as np
 import cv2
