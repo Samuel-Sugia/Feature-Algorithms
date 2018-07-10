@@ -1,0 +1,6 @@
+#matched ratio, siftClassification, userClassification, filename1, filename2
+0.4933 1 1 Oleuven.ppm leven2.ppm
+0.5550 1 1 Oleuven.ppm leven1.ppm
+0.2733 0 0 Oleuven.ppm can.jpg
+0.3351 0 0 Oleuven.ppm newCan.jpg
+0.4680 1 1 Oleuven.ppm leuven3.ppm
